@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import AddTransaction from './components/Addtransaction';
+import AddTransaction from './components/AddTransaction';
 import Transaction from './components/Transaction';
 import Balance from './components/Balance';
 import IncomeExpense from './components/IncomeExpense';
