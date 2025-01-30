@@ -1,6 +1,6 @@
 import{useState , useEffect} from 'react';
 import './App.css';
-import Addtransaction from './components/Addtransaction';
+import Addtransaction from './components/AddTransaction';
 import TransactionList from './components/TransactionList';
 import Balance from './components/Balance';
 import IncomeExpense  from './components/IncomeExpense';
