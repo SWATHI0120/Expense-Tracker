@@ -1,6 +1,6 @@
 import {useState } from 'react';
 
-const AddTransaction  = (props) => {
+const Addtransaction  = (props) => {
     const { onAdd } = props;
 
     const [title, setTitle] = useState("");
@@ -46,4 +46,4 @@ const AddTransaction  = (props) => {
 
 
 
-export default AddTransaction;
+export default Addtransaction;

@@ -4,7 +4,7 @@
 
     import React from 'react';
 
-const Transaction = (props) => {
+const TransactionList = (props) => {
    const  { transactions = [] , onDelete } = props;
     return (
         <div className="transaction-list">
@@ -30,5 +30,5 @@ const Transaction = (props) => {
     );
 };
 
-export default Transaction;
+export default TransactionList;
     
